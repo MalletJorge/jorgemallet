@@ -20,5 +20,5 @@ O meu propósito é impactar pessoas de maneira positiva ao redor do mundo.
 
 ## Por paixão
   *Let's Elevate*
-+ Criando uma framework para ajudar as pessoas a controlarem melhor as suas carreias   
++ Criando um framework para ajudar as pessoas a controlarem melhor as suas carreias   
 
