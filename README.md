@@ -29,7 +29,7 @@ O meu propósito é impactar pessoas de maneira positiva ao redor do mundo.
 + Revisão de Linkedin
 + Canvas de Carreira 
 <p> Gostou?
-<a href="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js">Compre aqui</a>.
+<a href="https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=513787823-9b4e3a88-c56c-48f0-af75-d5278b580d71">Compre aqui</a>.
 </p>
 
 
