@@ -21,15 +21,3 @@ O meu propósito é impactar pessoas de maneira positiva ao redor do mundo.
 ## Por paixão
   *Let's Elevate*
 + Criando um framework para ajudar as pessoas a controlarem melhor as suas carreias   
-
-## Mentoria
-*Growth de carreira* 
-+ 10 sessões de acompanhamento
-+ Revisão de Currículo
-+ Revisão de Linkedin
-+ Canvas de Carreira 
-<p> Gostou?
-<a href="https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=513787823-9b4e3a88-c56c-48f0-af75-d5278b580d71">Compre aqui</a>.
-</p>
-
-
