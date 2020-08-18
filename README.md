@@ -19,5 +19,5 @@ O meu propósito é impactar pessoas de maneira positiva ao redor do mundo.
 + Mentor focado em HR Tech na InovAtiva - Maior plataforma de aceleração de Startups do Brasil
 
 ## Por paixão
-  *Let's Elevate*
+  *elevatte*
 + Criando um framework para ajudar as pessoas a controlarem melhor as suas carreias   
