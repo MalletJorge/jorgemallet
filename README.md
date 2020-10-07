@@ -7,7 +7,7 @@ Sou profissional de RH por vocação. Especialista em logística , amante de tec
 O meu propósito é impactar pessoas de maneira positiva ao redor do mundo.
 
 ## Atualmente me dedico
-  *Ame Digital - Coordenador de People Analytics* 
+  *Geekhunter - CHRO* 
   + Tech Partner  
   + Tech Recruiter 
   + People Analytics
